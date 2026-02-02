@@ -111,7 +111,7 @@ Coming Soon
 <tr>
 <td>
 <b>StrataScratch</b><br>
-<a href="https://platform.stratascratch.com/YOUR_USERNAME">
+<a href="https://platform.stratascratch.com/user/RayTracing1284">
 <img src="https://avatars.githubusercontent.com/u/77298545?s=200&v=4" width="40"/>
 </a>
 </td>
@@ -120,7 +120,7 @@ Coming Soon
 <tr>
 <td>
 <b>DataLemur</b><br>
-<a href="https://datalemur.com/profile/YOUR_USERNAME">
+<a href="https://datalemur.com/profile">
 <img src="https://avatars.githubusercontent.com/u/106530904?s=200&v=4" width="40"/>
 </a>
 </td>
@@ -136,7 +136,7 @@ Coming Soon
 <tr>
 <td>
 <b>CodeWars</b><br>
-<a href="https://www.codewars.com/users/YOUR_USERNAME">
+<a href="https://www.codewars.com/users/shivanim1405">
 <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="40"/>
 </a>
 </td>
