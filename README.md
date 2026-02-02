@@ -81,7 +81,7 @@ My work focuses on transforming **raw, complex datasets into interpretable insig
 <tr>
 <td>
 <b>HackerRank</b><br>
-<a href="[https://www.hackerrank.com/YOUR_USERNAME](https://www.hackerrank.com/profile/shivani14m)">
+<a href="https://www.hackerrank.com/YOUR_USERNAME](https://www.hackerrank.com/profile/shivani14m">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
 </a>
 </td>
