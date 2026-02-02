@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+GenAI+%7C+Machine+Learning;Turning+Data+into+Stories+that+Matter;MS+Data+Science+%40+University+of+Connecticut;Research+Data+Analyst+%40+UConn+Health" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+GenAI+%7C+Machine+Learning;Turning+Data+into+Meaningful+Stories;MS+Data+Science+%40+University+of+Connecticut;Research+Data+Analyst+%40+UConn+Health" />
 </p>
 
 > **“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”**  
@@ -7,60 +7,56 @@
 
 ---
 
-## 📊 Crafting Insightful Stories from Data
+## 📊 Crafting Stories from Data Chaos
 
-I am a **Data Scientist and GenAI-focused researcher** with hands-on experience transforming complex datasets into **actionable insights and intelligent systems**.  
-My work spans **machine learning, genomics, NLP, and analytics**, where I build **end-to-end pipelines** that connect raw data to real-world impact.
+I am a **Data Scientist and Generative AI practitioner** with hands-on experience in **machine learning, analytics, genomics, and NLP**.  
+My work focuses on transforming **raw, complex datasets into interpretable insights and intelligent systems** through scalable pipelines and responsible AI practices.
 
-💡 I believe data is not just numbers — it’s **stories waiting to be uncovered**, interpreted, and responsibly deployed.
-
----
-
-## 🌱 What I Work With
-- **Languages:** Python, R, SQL  
-- **Data Science & ML:** Scikit-learn, XGBoost, Random Forest, Neural Networks  
-- **GenAI & NLP:** LLMs, RAG, Embeddings, Topic Modeling  
-- **Genomics:** RNA-seq, DESeq2, clusterProfiler, GO/KEGG Enrichment  
-- **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-- **Apps & Deployment:** Streamlit, AWS, Git, Jupyter  
+💡 I believe data is not just numbers — it’s **context, patterns, and decisions waiting to happen**.
 
 ---
 
-## ❤️ What I Care About
-- Building **interpretable, ethical, and reliable ML systems**
-- Applying **AI to healthcare, genomics, and decision support**
-- Contributing to **open-source ML & data science projects**
-- Continuous learning and knowledge sharing
-
----
-
-## 🔍 Current Focus
-From a **Generative AI and data science foundation**, I’m deepening my understanding of:
-- ML model interpretability  
-- Responsible and ethical AI  
-- Scalable data pipelines and production ML  
+## 🌱 Core Expertise
+- End-to-end **Data Science & ML pipelines**
+- **Generative AI (RAG, embeddings, LLM-based systems)**
+- **Genomics & RNA-seq analysis** (DESeq2, enrichment)
+- Data visualization, dashboards, and analytics storytelling
+- Cloud-enabled, reproducible workflows
 
 ---
 
 ## ⚙️ Technologies & Tools ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,aws,gcp,git,jupyter,sklearn,tableau,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,aws,gcp,git,jupyter,sklearn,pandas,numpy,matplotlib" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qlik.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alteryx.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alation.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/excel.svg" width="45"/>
 </p>
 
 ---
 
 ## 🚀 Project Portfolio 🚀
 
-### 🔭 Data Science / Machine Learning Projects
+### 🔭 Data Science & Machine Learning Projects
 
 | Project | Description |
 |-------|-------------|
-| **RNA-seq Tumor & Ulceration Analysis** | Differential expression and enrichment analysis to identify genes associated with tumor progression using DESeq2 and clusterProfiler |
-| **Hike Bite Guardian** | AI-powered assistant that identifies insects from bite descriptions and images and assesses severity using ML and NLP |
-| **Legal Document Analyzer (GenAI)** | RAG-based GenAI system for semantic search, summarization, and insight extraction from legal documents |
-| **Sustainable City Indicators Analysis** | Evaluated urban sustainability and health indicators using open datasets and spatial analytics |
-| **AI-Powered Business Insight Generator** | Automated data analysis and insight generation using ML and visualization |
+| **RNA-seq Tumor & Ulceration Analysis** | Differential expression & enrichment analysis identifying genes linked to tumor progression |
+| **Hike Bite Guardian** | AI-powered insect bite identification and severity assessment using ML & NLP |
+| **Legal Document Analyzer (GenAI)** | RAG-based semantic search and summarization system |
+| **Sustainable City Indicators Analysis** | Data-driven evaluation of urban sustainability metrics |
+| **AI-Powered Business Insight Generator** | Automated analytics → insights → dashboards |
 
 ---
 
@@ -68,25 +64,97 @@ From a **Generative AI and data science foundation**, I’m deepening my underst
 
 | Project | Description |
 |-------|-------------|
-| **Supply Chain Optimization (Real-Time)** | Analyzed logistics data and visualized delivery bottlenecks with predictive delay modeling |
-| **Web Scraping & Financial Trend Analysis** | Scraped and analyzed multi-year financial data with forecasting and visualization |
-| **Tableau & Power BI Dashboards** | Interactive dashboards for analytics and business insights |
+| **Supply Chain Optimization (Real-Time)** | Forecasting delays and optimizing logistics using live data |
+| **Web Scraping & Financial Analysis** | Market trend analysis with forecasting and visualizations |
+| **Tableau & Power BI Dashboards** | Interactive storytelling dashboards |
 
 ---
 
-## 💻 Coding & Professional Profiles 💻
+## 💻 Coding & Social Profiles 💻
 
-| Platform | Link |
-|-------|------|
-| **LinkedIn** | *(add your link)* |
-| **Portfolio Website** | *(add when ready)* |
-| **HackerRank** | *(optional)* |
-| **LeetCode** | *(optional)* |
-| **Tableau Public** | *(optional)* |
+<table>
+<tr>
+<th>Coding Profiles</th>
+<th>Professional / Social</th>
+</tr>
+
+<tr>
+<td>
+<b>HackerRank</b><br>
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
+</a>
+</td>
+
+<td>
+<b>LinkedIn</b><br>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>LeetCode</b><br>
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+</a>
+</td>
+
+<td>
+<b>Portfolio Website</b><br>
+Coming Soon
+</td>
+</tr>
+
+<tr>
+<td>
+<b>StrataScratch</b><br>
+<a href="https://platform.stratascratch.com/YOUR_USERNAME">
+<img src="https://avatars.githubusercontent.com/u/77298545?s=200&v=4" width="40"/>
+</a>
+</td>
+
+<td>
+<b>Instagram (Art)</b><br>
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>DataLemur</b><br>
+<a href="https://datalemur.com/profile/YOUR_USERNAME">
+<img src="https://avatars.githubusercontent.com/u/106530904?s=200&v=4" width="40"/>
+</a>
+</td>
+
+<td>
+<b>Tableau Public</b><br>
+<a href="https://public.tableau.com/app/profile/YOUR_USERNAME">
+<img src="https://public.tableau.com/favicon.ico" width="40"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>CodeWars</b><br>
+<a href="https://www.codewars.com/users/YOUR_USERNAME">
+<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="40"/>
+</a>
+</td>
+
+<td></td>
+</tr>
+</table>
 
 ---
 
-## 🎖️ Contributions & Activity 📝
+## ⭐ My Contributions
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -97,9 +165,9 @@ From a **Generative AI and data science foundation**, I’m deepening my underst
 ## ⚡ GitHub Stats ⚡
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
